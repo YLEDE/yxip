@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # 目标域名列表 (原始数据)
 domains = [
     'proxyip.fxxk.dedyn.io',
-    'proxyip.us.fxxk.dedyn.io',
+    'proxyip.tw.fxxk.dedyn.io',
     'proxyip.sg.fxxk.dedyn.io',
     'proxyip.jp.fxxk.dedyn.io',
     'proxyip.hk.fxxk.dedyn.io',
